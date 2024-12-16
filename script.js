@@ -3,7 +3,7 @@ console.log("Bomboclat"); //Checken of JavaScript het doet
 const mijnStartKnop = document.querySelector('.startKnop'); // Selecteer de knop om de radio aan of uit te zetten
 const mijnKnop = document.querySelector('.knop'); // Selecteer de knop om de liedjes te spelen
 const mijnAudio = new Audio(); //Audio element zodat muziek afspeelt
-const radioSound = new Audio('./Liedjes2/radiosound.mp3'); //Audio element voor de radio geluid als de radio aanstaat
+const radioSound = new Audio('./Liedjes2/Radiosound.mp3'); //Audio element voor de radio geluid als de radio aanstaat
 const liedjes = [ "4U.mp3","LOYALTY.mp3", "2024.mp3", "Devil In A New Dress.mp3", "Drugs You Should Try It.mp3", "FSMH1.mp3", 
     "Follow God.mp3", "PROMOTION.mp3", "Through The Wire.mp3", "SKELETONS.mp3", "TELEKINESIS.mp3",
     "EARFQUAKE.mp3", "WUSYANAME.mp3"
